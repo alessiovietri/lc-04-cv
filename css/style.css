@@ -1,0 +1,26 @@
+header {
+    background-color: lightgray;
+    text-align: center;
+    border-bottom: 2px solid #d78a05;
+}
+
+.yellow-text {
+    color: #d78a05;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.footer-paragraph {
+    font-size: 0.7em;
+}
+
+#footer-divider {
+    border: 1px solid #d78a05;
+}
+
+body {
+    width: 50%;
+    margin: 0 auto;
+}
